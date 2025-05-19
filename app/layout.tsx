@@ -56,8 +56,8 @@ const workSans = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "YC Directory",
-  description: "Pitch, Vote and Grow",
+  title: "cofoundhq",
+  description: "Pitch your ideas to investers",
 };
 
 export default function RootLayout({
